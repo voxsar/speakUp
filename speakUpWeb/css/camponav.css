@@ -15,7 +15,7 @@ ul.navbar-top {
 	text-align: left;
 	font-size: 0;
 	line-height: 0;
-	font-family: "futura-pt";
+	font-family:'Nunito', sans-serif;
 	padding: 0;
 }
 ul.navbar-top b, ul.navbar-top strong, ul.navbar-top b *, ul.navbar-top strong * {
@@ -158,7 +158,7 @@ ul.navbar-top a:hover {
 	body {
 		padding-bottom: 250px !important;
 	}
-	
+
 	ul.navbar-top li, ul.navbar-top li#nav-company {
 		float: none;
 		display: block;
