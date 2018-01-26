@@ -47,14 +47,9 @@ var app = new Framework7({
       url: 'question/questionHistory.html',
     },
     {
-      name: 'forumOpen',
-      path: '/forumOpen/',
-      url: 'forum/forumOpen.html',
-    },
-    {
       name: 'community',
       path: '/community/',
-      url: 'forum/community.html',
+      url: 'forum/forumOpen.html',
     },
     {
       name: 'settings',
