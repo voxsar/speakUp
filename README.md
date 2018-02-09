@@ -1,4 +1,4 @@
-# speakUp
+# speakUp [![Build Status](https://travis-ci.org/voxsar/speakUp.svg?branch=master)](https://travis-ci.org/voxsar/speakUp)
 
 Speak Up is a Website and Cordova mobile application that is developed for RAC CCS under the supervision of Dilendra
 
